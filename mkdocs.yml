@@ -1,0 +1,14 @@
+site_name: Vtexperts Documentation
+site_description: Documentation for The Vtexperts Team
+site_author: The Vtexperts Team
+repo_name: mkdocs
+repo_url: https://github.com/vtexperts01/mkdocs
+edit_uri: edit/master/
+copyright: "&copy; 2019"
+theme:
+  name: material
+nav:
+  - Introduction: index.md
+  - Category1:
+      - Category1-a: cat1/cat1-a.md
+      - Category1-b: cat1/cat1-b.md
