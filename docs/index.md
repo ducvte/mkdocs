@@ -17,6 +17,6 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
         ...       # Other markdown pages, images and other files.
         
         
- ## This is another section
+## This is another section
  
  This is how you do X Y Z and commit
