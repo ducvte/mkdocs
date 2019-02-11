@@ -3,7 +3,7 @@ site_description: Documentation for The Vtexperts Team
 site_author: The Vtexperts Team
 repo_name: mkdocs
 repo_url: https://github.com/vtexperts01/mkdocs
-edit_uri: edit/master/
+edit_uri: edit/master/docs/
 copyright: "&copy; 2019"
 theme:
   name: material
